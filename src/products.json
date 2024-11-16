@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Balón de Fútbol Profesional",
+        "image": "https://www.mideporte.pe/wp-content/uploads/2024/07/IX4019_1.webp",
+        "description": "Balón oficial de la FIFA, perfecto para partidos y entrenamientos.",
+        "price": 29.99,
+        "category": "balones"
+    },
+    {
+        "id": 2,
+        "name": "Botas de Fútbol",
+        "image": "https://www.mercurialbaratas.com/8384/botas-2020-nike-phantom-vsn-2-elite-df-fg-blanco-negro-laser-crimson.jpg",
+        "description": "Botas de fútbol con tracción superior para el mejor rendimiento.",
+        "price": 89.99,
+        "category": "calzado"
+    },
+    {
+        "id": 3,
+        "name": "Espinilleras",
+        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/574f6a7bd8aa474781d8f58f235b2411_9366/Canilleras_X_League_Blanco_IA0841_01_standard.jpg",
+        "description": "Protección esencial para tus piernas durante el juego.",
+        "price": 19.99,
+        "category": "accesorios"
+    },
+    {
+        "id": 4,
+        "name": "Suplemento de Proteínas",
+        "image": "https://smartnutrition.com.pe/wp-content/uploads/2023/11/1000124206.jpg",
+        "description": "Suplemento ideal para la recuperación muscular.",
+        "price": 49.99,
+        "category": "suplementos"
+    },
+    {
+        "id": 5,
+        "name": "Vitamina D",
+        "image": "https://biocentro.com.pe/wp-content/uploads/2023/12/Diseno-sin-titulo-93-scaled.jpg",
+        "description": "Suplemento esencial para el rendimiento deportivo.",
+        "price": 29.99,
+        "category": "suplementos"
+    },
+    {
+        "id": 6,
+        "name": "Camiseta Oficial de Selección Nacional",
+        "image": "https://home.ripley.com.pe/Attachment/WOP_5/2020329670478/2020329670478_2.jpg",
+        "description": "Camiseta oficial de la selección nacional, fabricada con materiales de alta calidad.",
+        "price": 69.99,
+        "category": "ropa"
+    },
+    {
+        "id": 7,
+        "name": "Camiseta Personalizada",
+        "image": "https://i5.walmartimages.com/asr/613f1774-065c-4928-a422-5bd0a68da64b.903b9ae2918f7c34cde78667d2f63573.jpeg",
+        "description": "Camiseta de fútbol personalizada con nombre y número de tu elección.",
+        "price": 79.99,
+        "category": "ropa"
+    },
+    {
+        "id": 8,
+        "name": "Botas de Fútbol para Césped Natural",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbIu6KMvlRdBMRke-FoybTCj4ya5aNk0LPw&s",
+        "description": "Botas de fútbol diseñadas para césped natural, ofrecen gran tracción y comodidad.",
+        "price": 89.99,
+        "category": "calzado"
+    },
+    {
+        "id": 9,
+        "name": "Guantes de Portero Profesional",
+        "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/4564/PMP20000242439/full_image-1.jpeg",
+        "description": "Guantes de portero con agarre superior, ideales para niveles profesionales.",
+        "price": 49.99,
+        "category": "equipamientoPorteros"
+    },
+    {
+        "id": 10,
+        "name": "Balón de Fútbol Oficial FIFA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdGo6gyeUrq8Y1P1F3GjTYxjmDHjfEDo-gw&s",
+        "description": "Balón oficial de la FIFA, perfecto para partidos y entrenamientos.",
+        "price": 34.99,
+        "category": "balones"
+    },
+    {
+        "id": 11,
+        "name": "Calcetas Antideslizantes",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOh3EHciWfbFSUvE9gg6V4Inti1_BHLzxsw&s",
+        "description": "Calcetas y medias antideslizantes para un mejor rendimiento en el campo.",
+        "price": 19.99,
+        "category": "accesorios"
+    },
+    {
+        "id": 12,
+        "name": "Suplemento de Proteínas",
+        "image": "https://media.revistagq.com/photos/652e62380fdd762a0a562736/3:4/w_748%2Cc_limit/ON.jpg",
+        "description": "Suplemento ideal para la recuperación muscular después de entrenamientos intensos.",
+        "price": 39.99,
+        "category": "suplementos"
+    },
+    {
+        "id": 13,
+        "name": "Botellas de Agua Personalizadas",
+        "image": "https://m.media-amazon.com/images/I/51hqCxXYgyL.jpg",
+        "description": "Botellas de agua personalizadas para mantenerte hidratado durante el juego.",
+        "price": 14.99,
+        "category": "accesorios"
+    },
+    {
+        "id": 14,
+        "name": "Reloj Inteligente Deportivo",
+        "image": "https://vader-prod.s3.amazonaws.com/1673365857-41HKbv4BqkL._SL500_.jpg",
+        "description": "Reloj inteligente para monitorear tu actividad física y rendimiento en el campo.",
+        "price": 149.99,
+        "category": "tecnologia"
+    },
+    {
+        "id": 15,
+        "name": "Mini Portería de Fútbol",
+        "image": "https://via.placeholder.com/150?text=Mini+Portería",
+        "description": "Mini portería ideal para practicar tiros en casa o en el jardín.",
+        "price": 69.99,
+        "category": "accesorios"
+    },
+    {
+        "id": 16,
+        "name": "Redes de Rebote para Práctica",
+        "image": "https://m.media-amazon.com/images/I/71DbExzOgWL._AC_SL1000_.jpg",
+        "description": "Redes de rebote para practicar la precisión en tus disparos.",
+        "price": 49.99,
+        "category": "accesorios"
+    },
+    {
+        "id": 17,
+        "name": "Espinilleras de Alto Rendimiento",
+        "image": "https://home.ripley.com.pe/Attachment/WOP_5/2020151018073/2020151018073-1.jpg",
+        "description": "Espinilleras diseñadas para protegerte sin comprometer el movimiento.",
+        "price": 24.99,
+        "category": "accesorios"
+    },
+    {
+        "id": 18,
+        "name": "Tobilleras de Compresión",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUSEhMVFRUXGBcWFRgYFRcXGhgYFhUXFxUVFRgaHSggGBolHxUYITEiJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0iICYrLS0tLy8tLS0tLS0tLS0tLS0vLy0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgIDBAUHAQj/xABGEAABAwEFAwgGBggGAwEAAAABAAIDEQQFITFBBhJREyIyUmFxgZFCobHB0fAHFCNicpIkQ1NjgrLh8RUzNHOTwkSi0hb/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAyEQACAgEDAwIEAwgDAAAAAAAAAQIRAxIhMQQTQVFhIjJC0XHB8AUUgZGhseHxIzNS/9oADAMBAAIRAxEAPwDuBKo5dvWb5hLR0Hdx9ijxCznPSa48amSH6wzrN8wvPrDOs3zCjlFQWrPvP0Nf3depJvrLOu38wT6yzrt/MFFXBUA4Kyy2VlhS8ksNrj67PzBefXI/2jPzD4qGyBWVPcK9pepMXXzZgaG0Qg8DKz4qpt6QHKaI90jfivn+/B+kP/Efat3dODQo7vsbfuyrk7QLfEcpY/zt+KrFqZ12/mC5jd+akEAUrIZSwpPkmH1hnWb5hOXb1m+YUaYFWCncHaXqSLlm9YeYXvLN6w8wtC0qlxwTuDtL1JCyQHIg9xqqlg3PHSOvWJPuWctE7Ri1TCIikgLF/wAShrTlo6jMb7fispca2iBitczaemSO52I9qpOWk2w4lkdWdc/xCL9rH+dvxVBvWD9vF/yN+K5RBayRSgWbbrOwWcVAq5zQDQVxNSfIFZ91+hu+kS8nSv8AFYP28X/I34qo3lDh9tHjlz2492K53a7si+rvo1rSGktNNQK48clGbqZKQySQERg4OqKUdhlmO9T3X6BdLH1O3ttLDk9p/iCuNcDiMVDLp6Kld3/5bfH2lWhPUzDLiUPJkoiLQxLdo6Du4+xR3eUitPQd+E+xRorDNyjpwLZlQQqkITVYnQyxMVa0SVy8ccFaJSRbeVaCrcVSM1Yocyv7/Uyfjd7VubuFGhaO/f8AUSfjd7VuLvfVoVDq8IkV3HFSCzLQ3aFvrOrIwlyZTQroCtBV1UlS6rcpVQKuWOPekaNK1Phii3YbpG9gj3WhvAAKtEXScYREQBcz+kSzA2tp4saT5keeC6YubbdTfpZB0Y0eqvvWeXg6Om+cjljc3li2lGtGPn/Rbe3ysJjaOtveTT8Vo7DTlJP4feskU5RtcqOr4BYHbqK9o7wpGWtJAIph24UUVtdrdIanICjRo0DAAK5fFuEr+b0Bg3t+98FhVXRjhW7PO6jPr+FcHV9knk2aLez3B7NVNrq/ym+P8xUI2UkBs8VOo3+VTqwD7NncFnj+Zm/UKooyERFuchbtHQd3H2KNFSW09B34T7FGFhm5R1dPwykuXj5KBWrQ+i1ptm+aN8T8Fib1ZkukqVVvKN2vaiGK0GzurgBvO0DjjSncR5rfQyhwDmkEHEEZEdiulSMm03SKiFTRVA4leNUkHI70viKSeQ13TvvFD2OI9y3l02lpAAI81qtoNlI3zyOa4sJe4kZipcammnmsOz7CS5snZ4hzfZVYd/F5dFH1WjaR027nii3cMgFFyiz7G28dGVvhM8e5Z8ey16UwkJ7pyrrNi/8ASM31cWdTDxxVe8FzOS4r2jaDvyPpoyXePiDSvrVsWO+DhSf8wbn4qe5jfEkF1MTqO+s25JWmVzajfDQ6moBNKnyXK4dlbyeQHyFta1JncaYfdqugbAbMfVOUe+QySP3QTSgAFTQVNTnmVbHODlSdsq86lsiYIiLqKhERAFGdp9mDaXiRjmh1KODq0NMjUZHwUmRQ0nyTGTi7Rz23bFviiD4+fJXnhurfR3a50x769i57f1s53Jio3ah+mORb8V1/bTaAWazyljg14bTeOjnDmtHF5zpoMTpXg29XGta+vtVIxje3gmWeTWkqqrjVQArsEZc4NaCSSA0DEkk0AHbVbHOTL6Mpp378AYXCPnB2GDS7omuuJp3HguvWRhDGg5gYrT7GXALHZww0MjudKfvdUdgGHmdVvlmopO0dDyScVF+AiIrFS1ajzHfhPsKh8lrxoFLbxNIpD9x38pUBikLhULDN4OvpuGXLxl5pFcTgPHNWoQ2NjnuwDWknuAqVgSS1tJYD0WtB7yN6nrCs7X23krHL94cmO0v5vvJ8FilbOqfwwOSXhbXSyvldWr3Od2ipqB4Cg8Fu9ndp5bOQK1ac2nI9vYe1RxwNQNRmvaHUfOi7K2o8i3dnbrnviK0trG7HVpzHxHatmFwqw3i+Fwc0kEZEHHFdE2a2zbKWxzCjzQNc0YOJyBGh7s1lKFbo3hlT+Ywb3vKIWmWNzg1zXkEE0rXEEHI4Fbe7pmmlHDzCgX0jgC2S0pztx3mxoPsK11nfWSyCtBuxAHh9oQe+hquDL0cZO0+Tnzx1M7jZG5LaQNXCrReUv1iUh72/aSYB7sOcRQYrYwX9amjm2iUa9In2rJfs6TVpnOsTO2s0V2i4vHtXbNLS/sqOGeiu/wD6i1nK0SY5Yaa/PapX7OyeqJ0M7Ee1bS6JGujDmkEEmhGRoaVHkuBPvKaU/aSyOBx5zjTyr218l3XZSPdsdnH7tp8xX3rs6bo+y9TdmmONOzaoiLtNgiIgC0+0N9ss8bi5wbuirnHHcByw1ccg3Uq9fV7MgY4lzQQ0uJd0WN67+zgMycBxHAdsdp32yQhpIhaSWg5udrI/7x4ZAYBZybb0x/0UlLwiztTtE+2SVxbG2vJsrWlc3O4vOZK1tkl9Hy96xV60LSMVFUiiNqCun/RXsz/5so4iAHyMnuHieChewVwm3TtY6ojbzpTlzQaboPEnDz4Lv0MQa0NaAGgAADIAYABSXivJWiIoLhERAWLe0mKQAVJY4AcSWmihlhue0vw5Pc4l5oPIYlTpFSUFLk0hkcVscY2LDnzWh7iXHlXipFOi8tpTTADBYX0qTfZxNAwLyfytp/29SlEdxS3dNOXDfsssj5WSD9WXklzJRoKnB2XGihn0m3hHKYWRua7d3nOoagVAAFfPyWcY1M6J5FLFz4IF3JSi93dFU4aLoPPKA0Z+pXIbQ+JzXMcWvFCHNNCDpQqqgGPl3rHOKhgmEW09ntjRFecIechaIgGyN4FwHSHd5FUW/Y57ORtFkc212dhaC5lC4BryeezuONOGQUTAWfdV6TWZ/KQyOjdrTI9jhk4d65pYa+Tb28f4K01wYRn+1ea157jXjzitvZ3VW7detht+Ftj+rzn/AMmEc1x4ys/v3hYl47MWiyN5WrZoM2zRnebTQu6vs7VeGRL4ZbMajDc01wrjliMP7qoY8RXi7KlcPH48FQXAjSmpxz0VQGeA7aNOeNPn4rckyLMcfXhjn0hU5aea+htnP9LB/tR/yhfPMWePr8jgM+PgvobZwUssH+1H/KEZaJsURFBcLBvW8WwtJJFaE4mgaBm950aP6Ku8LaIm1zca7orStBUknRozJ0XB9v8AbA2pzoYnVirz35cq4ZU4Rt0His5Sd6Y8/wBikpVsixtvtY61vMbHHkQ6tTgZXZco/gOq3QeqKbypqvQFpGKiqRmVtW42buV9rmbEzAZvdTotrie/QDiVgWCxvle2ONpc9xDWgakr6A2C2YbYoQM3Oxe6nSdxH3RkB3nVVnL6VySlbo3Nx3UyzRNiY0ANFMB7Tqe1bFEUpUqRqlQREUkhERAEREB4QoFth9G0NoBks1Ipcy3KN57h0D2jDs1U+RCGj5bva5prLIWSxuY9uhHrByI7QtcxlV9R37cUFrj5OZleq4YOaeLTp3ZFcxt30XNj5Xfe7dNDHIxtQzE15VmfDEYYHEKJS0q2Uao5NKan2KjdW/v7Za0WXnOaHxnKWPnMI0JPo+K0dFEZqStEJ2UBer2iKxJ5RbW49obRZHVhfRp6UZ5zHfib7xitVRe0VHFSVMVZOoJbBbjzSLFaDhuk/YSHsPoHy8VgXjc09ncGTMLdA7eq1wx5zSMD7cVFFJrg2wkgZyMzBaLOc43+j/tu9Huy7lSpw+Xden2ZSmuCqywY6DuHDAY91V9DXOKQQj92z+ULjEd3wWgGWwSbxA3n2d5pI0DPd648+/RdnuZ1bPCf3bP5QrxyKXBeDszFj221iNtTiTg1ozceA+OgVVrtLY27zu4AZknJrRqVxj6Stty5z7NC7nHmzPacGN1hjPHrO1y7onL6Y8lpSoxPpF21MznWeF9W5TPbk6n6qM/sxqfSPYufVVJQK8IKKMytqutCtsC6N9GWyZlc20ytw/UtIwO6edM4atbpxKTnpRBJ/ov2Q5EctM37VwxB9AHEM/EczwFAulK1Z4QxoaMh5k6k8SVdVYRrnk1jGkERFcsEREAREQBERAEREAREQEDvOExTyiM7gLt4toCx2+ATvN7zmKFRW+tlbLPV1PqknXbzoHHtbgWeoY6qcbUx0mB4sHqJHwWoEgAJJwAJPcBUrjlGpWtmbvDGcU+Gcnv7Ze02XGRm9HpIznMI41HR8aLRkKcXRf8AOyU7klI3Oc5zHDfZu4uPN0w4UV622GwWogEiw2hzWupnCd4VAOW4aY6ZjNadyUXUt/w+xxNtOmQBAt1fmzNosmMsfM0kbzmHhzhlnrRafdWsZKStEp2UohCK5JestpdG4PY4tc01DmmhBHAr6I2C2mFqsDZ5KBzXGN9Bm4UpujtqCB2r5wdXANBc4kBrQKkk4AAaklThlufdFkNmEm9a5TykgBBbZt5obhxlLQBXT25TdPbki6JD9JO3LmF0ELvtaFr3NNRC05saf2h1dpkFyVHmtSTUnEk5knMlAVeENP4gKoLwLa7OXK+1zCJmApvPeeixg6TnfOJVnJRVsg2uw+zJtcm88HkWEb9M3uPRiZ2nU6BfQl12ARMAAANADQYADosb90fE6rV7J3GyzxMDW7rWikbTmAelI/8AeOzPAGnFSFZQTk9Uv4exeEfLCIi1LhERAEREAREQBERAEREAREQEZ2vbR0Z4hw8qH3qDbW2wRWd9M38wdx6XqHrU421dTku9/sC4/tlePKS7g6MdW/xekfd4LBxuZ06tOIxLtFGzO4RED+J7GH1OPmre1A/SZBwLWjuDGgDyCv3afsbRhpET3cpl5lvkqdqGUtUpOIeRIO6RoePIGngi/wCz+f5HB9X69i3cu0toso3WOD4j0onjeYfA9HwWzNjsFu/yiLFaD6DjWF54NPo18O4qO7nz8/PvGzgq0sKbtbMNHl+XDPZHbs8Zb1XZsd+FwwPdmtZRTfZq97Q0izEsnhdgY5sWhoFTuuxLaeI7FnXpZ7Hdz/rLYv0hwrBZ3O3xET+tfwHVace70c+7KMtElb9v1sRqa2NXBC26oxPIAbdI37GM0IszHfrXj9odOGXFQ2aVz3FziXOcSS4mpJOZJ4q7b7W+WR0sri57jVxOZJ+aUWOtccK3fJZI8QL1VMbX+mPd4rUF6wWN80jYo27z3mjQNT8Au+bBbKMs8YGDsQZH0/zZG6D92w5cTj36T6ONjDCN6QUmcByp1hYcRE06SO1Og8K9RjjDQGtAAAAAGQAyAWC/5Hfhf19xFXuVIiLY1CIiAIiIAiIgCIiAIiIAiIgCIiAi+3opEx/Vc7+Qn/quBzvqSSe3MfFd/wBvBvQNZ1nEf+jh71wOQae8/wD0qfUy2RvRH+Jstnxv8rCM5IjTvjIlA8dwjxVd4t5azsn9KMtgk/CG1hf30q0nsC193WswyslaKlhrQ68Qe8V81vWMZZ7TyTudZpgwmusbxVju9pOfYVlO1K1+P3/ocz5I435+fV4qsdn9ceHb8FdvCxuhkdG/Qmh0cK4PadQaVW4sLWWKJttnG9I6v1WE6nPlpB1Rp4cRTWWVKNre+CWy6HNuyMTStDrY8VhiOULT+skHW4Dw4lQi3W18z3SSOLnuNXE6n5C9vC2Pme6WVxc9xq4n5wHYsdVhCvifIS8niIFUAtSSmi6X9GmyTiWWmRtXuxs7XDBoGdoeOArzRqSOwjQbG7PtkrarSKWaMgAZGaSvNibxFc/7079clna1pdvNc91N8tyFMmN4NbkB3nMlYyet6Fx5+wS1GXYrK2JgY3vJObicS53aSr6ItlsahERAEREAREQBERAEREAREQBERAEREBD9tJ6yxsB6LS78xp/1XJ9pbCYpj1X1c3PXpDXI9moXTL959pkPAhvgAP6rWXpdbZ4ix2GrTqDoVhq+JnZLFqxJHLCM/n59S3dg/SYHRHGWJu9AdTGCTJF20rvDxWDeNgfC8seKHTgRxb2fNF7ctjfNOxkZ3XV3t7qNbiXnuCtP5bvjc86Srk3ljfE+ytntbSWWVxazL7avOZBxNHeAHioVfN7SWqZ00pxOAAya0dFjRwC2W2l/fWZd2M/Yxkhn3iTz5TTCrj6u9R5UxQ+p8vx6FYryer0BeKoLcseLebLbPm1yHeO5DGN6aTRrRoPvHTzVjZ645LXMIo8NXuPRY0Zud84qUXteEbWCx2Sos7CN5w6U7686R56tRh3dyynJt6Y8/wBirfhFu+L1ErmRxN5OCIFsUYxNA6m+e1wzPb3qZ7KXjyjN4vIkZQGh7OafGnqUZuLZG0Wih3eSjPpOqMzm3V3sU8u7ZaKzRu3N5z6Yk4VxrQNGAWU8uKCUEzTFNQfsb6wX2MpPzD3hbSC1Mf0HA9xy7xooLyqNtBB3gSDoWmhHitVkOx4U+DoCKFRXvO3KXe7HAH+q2lg2laTuyjdPWAq3xGYV1kRm8MkSFFS1wIqDUHIhVK5kEREAREQBERAEREAREQBERAQfaOAx2hxOT+cD4UcPP2rEbIFOrdYmTN3JG1HrB4g6FaCbZMjoS+Dm+8fBYyg72OuGaOmpEZvSxRzt3XjLonVp4g+5Q2+oTYbLK0EcpO/kg4aRNbvPpwJJoV0ubZu0jo7jv4iPaFpb52LtFoYY5IhTNrg9tWniPgqNPh8EZYY8i2as4nRKLbbRbPz2GXkp27ppVpGLXt4tPtGi1dF0HCylrVsbluqS0ythiFXO8mjVzuACtXdYnzSNiiaXPcaAe/sAzqut7LbPsiYYYzUZWqYYco4fqIjowVIJHdmTTnz51jXuZylRrLPdbnRmw2AEx1pabQeaJXatDuoMqDu4kyu4djoLPRzhysg9JwwFODfeareWeNrGhrQGtAoABQAcAFd3qZrypdRKSpbfmVTLoVm2WtkTDJI4MY3EkmgUP2i2+iiBZZ6SyZb3oN8fSPYMO1Rdt22+8nB0rnCPMF/NaNKsjGvb61pi6WU95bIvGLlwbuxbRRWqaRkbXMGJbX0gDiaej3Lcwxqm5dno7PGWNFSek85k8e7sXlSwkHMevwXoUlwepii9NMqtMVcljP3hQe1XvrgJxVwTMdhVQzVGVdd4SQnAbwOba4d44FSq77cJRkWuGYPuKisW6M8FvbigOL8aHAV14n1LSDd0Y5sarUblERbnGEREAREQBERAEREAREQBERAEREBptqtnIbfAYZhQ5seBzo3aOb7xqF877Q7PzWKcwTNxza4A7sjScHM492YOC+oVrb6uSG1BglYCY3B8btWuaa4dhpiNVD9iGjl+yWzxhbyYwmcAbRIM4mkVEEZ0edToPBTyywtY1rGgNaBQAZABWruux0DN2SheS573DJznOJLsfDDSgC1m1G0jLHHjR0rugyuf3ncGj1rwcqyTyaXycbTvcz76vuGyx78rqV6LRi5x4Ae/Jc2vG+7XecnJRNLY8OY080dsr8K92XYrF1XVaLylM0zzuV5z6Z09CMZAeodq6VdlgjgYI42hrR6+0nUrvw9NHHu92dmHp292afZnYyKCj5KSy8SOa38IPtKldKKhki95RdB2KOnZHpavI5xGd7dDuNQK07DxXrpAsaRyE1fJIbLbYpBzSO40B8lfdE05tB8AoJaXDeaDr7v7+pZlkt8keDH4UqQcRnhSuWuSssnhmcsD5TJcLOwei38oV1aSy7QNwEo3TxGI+IW1s9rY/oOB+eC0TT4MZRkuS8iIrFQiIgCIiAIiIAiIgCIiAIiIAiIgCIiAtzRBwof7doXIb62CtH1syWiTlISa8pk48GFvo8MMOC7EqXsBBBFQcwVVxT38hJXbITZYmtaGtADQKADIAZLxzyFtrwuRzauh5w6pzHcdVqK40cCDqCKFYNNcnpY5Rlweicqv6wqJm4YKzyFc/bkhNF9tq4obRjQLXua9j9x2IPQdxpm13b7VTa7E9zKxmjxlXJ33T8VG5GhGdLM3VWDFXnNdTvyWHdNt5Soc3deDRzTmCNFXarK6M77OjXnt0FfSHDtCglRozYZK4HPjp4Lc3dCd5pGdRlw1WDY4g5qlF2WdrWAitSMSc/7K8VbMsslFcGYiIug4QiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIArU9mY8Ue0O7xVXUQGrmuOMg7tW+NR5Faa03e+I45aEZePBS1CqOCZtDPKPuQy02YvjcG1e8c5oHWbiKcK4jxVcLOI8FLmsAyAHcFaksjHGpaKqvbZqup9UQ+a53Cfl2CoLQHgcRk6muGHgFs4LIHgtoSHYHDjnVSGKINFGiirRYysuob2NZZrkiZlvEcCVsgF6i0SS4MJScuWERFJUIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgP/2Q==",
+        "description": "Tobilleras de compresión para mayor soporte y comodidad durante el juego.",
+        "price": 18.99,
+        "category": "accesorios"
+    },
+    {
+        "id": 19,
+        "name": "Vitaminas y Multivitamínicos",
+        "image": "data:image/jpeg;base64,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",
+        "description": "Vitaminas esenciales para mejorar tu rendimiento deportivo.",
+        "price": 29.99,
+        "category": "suplementos"
+    },
+    {
+        "id": 20,
+        "name": "Gel Energético para Deportes",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7NJgKq1wieel3BU6b1aVOEE3ythIHi_FH1Q&s",
+        "description": "Gel energético ideal para tomar antes y después del partido.",
+        "price": 3.99,
+        "category": "suplementos"
+    },
+    {
+        "id": 21,
+        "name": "Bolsas de Frío Instantáneo",
+        "image": "https://www.omnia-dental.com/media/catalog/product/cache/10/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/3/0/30.v0001-95.jpg",
+        "description": "Bolsas de frío instantáneo para lesiones y recuperación.",
+        "price": 9.99,
+        "category": "rehabilitacion"
+    },
+    {
+        "id": 22,
+        "name": "Cámaras Deportivas",
+        "image": "https://hiraoka.com.pe/media/catalog/product/1/3/131184_1.jpg",
+        "description": "Cámaras deportivas para grabar tus partidos y entrenamientos.",
+        "price": 199.99,
+        "category": "tecnologia"
+    },
+    {
+        "id": 23,
+        "name": "Figuras Coleccionables de Jugadores",
+        "image": "https://ae01.alicdn.com/kf/S747b64c8ccba4257b2197139e80d546cP.jpg_640x640q90.jpg",
+        "description": "Figuras coleccionables de tus jugadores favoritos.",
+        "price": 14.99,
+        "category": "decoracion"
+    },
+    {
+        "id": 24,
+        "name": "Posters de Equipos de Fútbol",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/w/m/s/medium-real-madrid-football-club-wall-poster-for-room-with-gloss-original-imahfh3c2uhhbnmy.jpeg?q=20&crop=false",
+        "description": "Posters de alta calidad de equipos y jugadores famosos.",
+        "price": 19.99,
+        "category": "decoracion"
+    },
+    {
+        "id": 25,
+        "name": "Equipos de Entrenamiento para Casa",
+        "image": "https://preview.free3d.com/img/2016/05/2279242828632556825/z7797m4v.jpg",
+        "description": "Equipos de entrenamiento para mantenerte en forma en casa.",
+        "price": 129.99,
+        "category": "entrenamiento"
+    }
+]
